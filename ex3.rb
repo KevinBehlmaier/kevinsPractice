@@ -26,9 +26,9 @@ puts "What is 5.0 - 7.0? #{5.0 - 7.0}"
 #this is the realization
 puts "Oh, that's why it's false."
 
-#asking for more here
+#asking for more here 
 puts "How about some more."
-
+#This is my change for GitHub
 #more lines with strings runnning math code
 puts "Is it greater? #{5.0 > -2.0}"
 #line with running math code using #
